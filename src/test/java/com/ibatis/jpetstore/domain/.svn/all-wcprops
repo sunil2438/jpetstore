@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/domain
+END
+BeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/domain/BeanTest.java
+END
+DomainFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/domain/DomainFixture.java
+END

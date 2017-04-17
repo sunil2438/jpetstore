@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/mssql
+END
+jpetstore-mssql-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/mssql/jpetstore-mssql-schema.sql
+END
+jpetstore-mssql-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/mssql/jpetstore-mssql-dataload.sql
+END

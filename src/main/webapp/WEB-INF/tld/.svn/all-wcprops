@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/tld
+END
+struts-logic.tld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/tld/struts-logic.tld
+END
+struts-tiles.tld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/tld/struts-tiles.tld
+END
+struts-nested.tld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/tld/struts-nested.tld
+END
+struts-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/tld/struts-html.tld
+END
+struts-bean.tld
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/tld/struts-bean.tld
+END

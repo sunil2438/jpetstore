@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/struts-config.xml
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/validation.xml
+END
+validator-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/validator-rules.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/webapp/WEB-INF/web.xml
+END

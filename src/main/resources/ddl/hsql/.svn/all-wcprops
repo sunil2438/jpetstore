@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/hsql
+END
+jpetstore-hsqldb-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/hsql/jpetstore-hsqldb-dataload.sql
+END
+jpetstore-hsqldb-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/hsql/jpetstore-hsqldb-schema.sql
+END

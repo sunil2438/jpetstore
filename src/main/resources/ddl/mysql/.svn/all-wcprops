@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/mysql
+END
+jpetstore-mysql-create-user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/mysql/jpetstore-mysql-create-user.sql
+END
+jpetstore-mysql-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/mysql/jpetstore-mysql-schema.sql
+END
+jpetstore-mysql-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/mysql/jpetstore-mysql-dataload.sql
+END

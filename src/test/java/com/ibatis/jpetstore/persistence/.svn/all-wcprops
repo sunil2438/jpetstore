@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence
+END
+BasePersistenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence/BasePersistenceTest.java
+END
+OrderDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence/OrderDaoTest.java
+END
+AccountDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence/AccountDaoTest.java
+END
+CategoryDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence/CategoryDaoTest.java
+END
+ItemDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence/ItemDaoTest.java
+END
+ProductDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence/ProductDaoTest.java
+END
+PersistenceFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence/PersistenceFixture.java
+END
+SequenceDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/test/java/com/ibatis/jpetstore/persistence/SequenceDaoTest.java
+END

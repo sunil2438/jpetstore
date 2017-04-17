@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/iface
+END
+SequenceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/iface/SequenceDao.java
+END
+OrderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/iface/OrderDao.java
+END
+AccountDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/iface/AccountDao.java
+END
+CategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/iface/CategoryDao.java
+END
+ItemDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/iface/ItemDao.java
+END
+ProductDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/iface/ProductDao.java
+END

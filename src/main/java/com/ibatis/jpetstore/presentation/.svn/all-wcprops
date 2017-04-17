@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/presentation
+END
+CartBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/presentation/CartBean.java
+END
+CatalogBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/presentation/CatalogBean.java
+END
+OrderBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/presentation/OrderBean.java
+END
+AccountBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/presentation/AccountBean.java
+END
+AbstractBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/presentation/AbstractBean.java
+END

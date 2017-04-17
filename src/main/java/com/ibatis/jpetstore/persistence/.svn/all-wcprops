@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence
+END
+dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/dao.xml
+END
+DaoConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/java/com/ibatis/jpetstore/persistence/DaoConfig.java
+END

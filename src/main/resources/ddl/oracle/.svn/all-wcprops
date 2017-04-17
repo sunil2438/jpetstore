@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/oracle
+END
+jpetstore-oracle-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/oracle/jpetstore-oracle-schema.sql
+END
+jpetstore-oracle-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/oracle/jpetstore-oracle-dataload.sql
+END

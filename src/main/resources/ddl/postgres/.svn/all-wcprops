@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/postgres
+END
+jpetstore-postgres-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/postgres/jpetstore-postgres-dataload.sql
+END
+jpetstore-postgres-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/maven/jpetstore-maven/src/main/resources/ddl/postgres/jpetstore-postgres-schema.sql
+END
